@@ -4,7 +4,7 @@ acc-lkp-accnum-endpnt: /TransactionActivitySvc/transactionActivity/
 acc-lkp-sessionid-endpnt: /TransactionActivitySvc/transactionActivity/
 
 
-#Account Lookup by Account number Request Properties
+--Account Lookup by Account number Request Properties
 acc-lkp-accnum-bs: 001
 acc-lkp-accnum-es: 060
 acc-lkp-accnum-indicator: F
@@ -14,4 +14,4 @@ acc-lkp-accnum-li: F01ALL
 acc-lkp-accnum-ci: ECOM
 acc-lkp-accnum-un: ActLookupSvc
 acc-lkp-accnum-pw: ActLkpP@55w0rd
-acc-lkp-accnum-ti:212427068GUN
+acc-lkp-accnum-ti: 212427068GUN
