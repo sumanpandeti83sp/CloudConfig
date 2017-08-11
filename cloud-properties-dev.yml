@@ -1,1 +1,17 @@
-text: hello
+mw-host: http://zqsmidwrapda01.cpu.syfbank.com
+mw-port: 28081
+acc-lkp-accnum-endpnt: /TransactionActivitySvc/transactionActivity/
+acc-lkp-sessionid-endpnt: /TransactionActivitySvc/transactionActivity/
+
+
+#Account Lookup by Account number Request Properties
+acc-lkp-accnum-bs: 001
+acc-lkp-accnum-es: 060
+acc-lkp-accnum-indicator: F
+acc-lkp-accnum-ff: H
+acc-lkp-accnum-bc: 20170726
+acc-lkp-accnum-li: F01ALL
+acc-lkp-accnum-ci: ECOM
+acc-lkp-accnum-un: ActLookupSvc
+acc-lkp-accnum-pw: ActLkpP@55w0rd
+acc-lkp-accnum-ti:212427068GUN
